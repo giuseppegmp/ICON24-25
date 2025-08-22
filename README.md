@@ -1,5 +1,5 @@
 # ICON24-25
-## Predizione della Recidiva nel Cancro alla Tiroide
+## Predizione della Recidiva nel tumore della Tiroide
 
 ###  Descrizione
 Questo progetto nasce con l’obiettivo di sviluppare un sistema di **predizione dei casi di recidiva** in pazienti che in passato hanno sofferto di **tumore della tiroide**.  
